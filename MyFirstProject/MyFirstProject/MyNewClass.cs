@@ -9,5 +9,6 @@ namespace MyFirstProject
     class MyNewClass
     {
         public int a { get; set; }
+        public string facku { get; set; }
     }
 }
